@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeaksValleyFinder", "PeaksValleyFinder\PeaksValleyFinder.csproj", "{6A7D00B7-60B2-4266-A8B1-D1DCAC46D688}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A7D00B7-60B2-4266-A8B1-D1DCAC46D688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7D00B7-60B2-4266-A8B1-D1DCAC46D688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7D00B7-60B2-4266-A8B1-D1DCAC46D688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7D00B7-60B2-4266-A8B1-D1DCAC46D688}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FF6B4CD-E828-4761-86BE-7CD2A9189D44}
+	EndGlobalSection
+EndGlobal

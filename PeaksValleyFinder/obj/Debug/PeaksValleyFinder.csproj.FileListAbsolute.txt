@@ -1,0 +1,7 @@
+C:\Users\mcdar\source\repos\PeaksValleyFinder\PeaksValleyFinder\bin\Debug\PeaksValleyFinder.exe.config
+C:\Users\mcdar\source\repos\PeaksValleyFinder\PeaksValleyFinder\bin\Debug\PeaksValleyFinder.exe
+C:\Users\mcdar\source\repos\PeaksValleyFinder\PeaksValleyFinder\bin\Debug\PeaksValleyFinder.pdb
+C:\Users\mcdar\source\repos\PeaksValleyFinder\PeaksValleyFinder\obj\Debug\PeaksValleyFinder.csprojAssemblyReference.cache
+C:\Users\mcdar\source\repos\PeaksValleyFinder\PeaksValleyFinder\obj\Debug\PeaksValleyFinder.csproj.CoreCompileInputs.cache
+C:\Users\mcdar\source\repos\PeaksValleyFinder\PeaksValleyFinder\obj\Debug\PeaksValleyFinder.exe
+C:\Users\mcdar\source\repos\PeaksValleyFinder\PeaksValleyFinder\obj\Debug\PeaksValleyFinder.pdb
